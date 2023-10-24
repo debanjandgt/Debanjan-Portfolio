@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21fcb2e5.css",
+    "main.js": "/static/js/main.780bf396.js",
+    "static/media/me.jpg": "/static/media/me.6b7232db32663d03828a.jpg",
+    "static/media/man.gif": "/static/media/man.614d62d1925a977cc6df.gif",
+    "static/media/portfoliosell.jpg.png": "/static/media/portfoliosell.jpg.50d21e94a88285390663.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.2dd7210e584ab7f97d22.png",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.0f09ab51ec7855443b33.jpg",
+    "static/media/portfolio4.png": "/static/media/portfolio4.09d89e545d3c22459d8a.png",
+    "static/media/Debanjan_Guha_Thakurata_2024.pdf": "/static/media/Debanjan_Guha_Thakurata_2024.28c87543098699715ab5.pdf",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.6b57799e8c1cb7c043e6.jpg",
+    "static/media/proj1.jpg": "/static/media/proj1.e20df7fc5192c4ae6d3c.jpg",
+    "static/media/avatar2.jpg": "/static/media/avatar2.84d72052fed44841890c.jpg",
+    "static/media/avatar3.png": "/static/media/avatar3.12cb9fc3abf76ac9652d.png",
+    "static/media/avatar1.png": "/static/media/avatar1.c66dd69b30a763a35157.png",
+    "index.html": "/index.html",
+    "main.21fcb2e5.css.map": "/static/css/main.21fcb2e5.css.map",
+    "main.780bf396.js.map": "/static/js/main.780bf396.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21fcb2e5.css",
+    "static/js/main.780bf396.js"
+  ]
+}
